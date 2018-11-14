@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{131:function(a){a.exports={pages:[{componentChunkName:"component---src-pages-index-js",jsonName:"index",path:"/"}],dataPaths:{"app-f4d":"818/path---app-f-4-d-201-NZuapzHg3X9TaN1iIixfv1W23E","dev-404-page-5f9":"920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",index:"801/path---index-6a9-aENomQ7ijfkE4uebyazNEIDFqM"}}}}]);
+//# sourceMappingURL=4-a06bec9d6c446e11a911.js.map
