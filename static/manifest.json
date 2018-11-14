@@ -1,0 +1,21 @@
+{
+  "name": "Willpower Blog",
+  "short_name": "Willpower",
+  "theme_color": "#696969",
+  "background_color": "#3a3a3a",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
