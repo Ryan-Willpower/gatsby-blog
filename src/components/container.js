@@ -35,8 +35,11 @@ const GridContainer = styled.div`
 export default (props) => (
   <GridContainer>
     <Helmet>
+      <meta name="theme-color" content="#696969" />
       <title>RYAN WILLPOWER</title>
-      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"></link>
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+      <link rel="manifest" href="/manifest.json" />
+      <link rel="icon" type="image/png" href="/images/logo-192.png" />
     </Helmet>
     { props.children }
   </GridContainer>
